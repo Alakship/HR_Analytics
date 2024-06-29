@@ -25,3 +25,5 @@ Attrition Rate: The percentage of employees who have left, indicating the attrit
 Active Employees: The count of currently employed staff members.
 Average Age: The average age of employees in the organization.
 ```
+## Dashboard 
+
